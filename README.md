@@ -1,2 +1,3 @@
 # test
-Aprendiendo a usar GiHub
+## Aprendiendo a usar GiHub
+Hola mundo
